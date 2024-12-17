@@ -1,0 +1,32 @@
+body{
+    font-family: 'Comic Sans MS';
+    background-color: rgba(128, 128, 128, 0.689);
+    border: 0ch;
+    border-color: black;
+    font: 100;
+}
+.cssone.html{
+background-color: beige;
+}
+.csstwo.html{
+    background-color: beige;
+}
+.infomation about volcanoes{
+    font-family: 'Times New Roman'; 
+}
+.resume{
+    font-family: 'Comic Sans MS';
+}
+.tableau interactive graph{
+    font-family: 'Aptos';
+}
+#mainNav{
+    background-color: rgba(128, 128, 128, 0.623);
+}
+<section id="game-section">
+    <h2>Play Snake Game</h2>
+    <div id="game-container">
+        <canvas id="gameCanvas"></canvas>
+    </div>
+</section>
+body
